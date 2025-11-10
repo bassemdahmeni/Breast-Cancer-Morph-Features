@@ -10,7 +10,7 @@ This project implements and extends the methodologies from the research paper **
 
 ## 📚 Research Foundation
 
-### **Paper Implementation: "Detection of breast pathologies..."**
+### **Paper Implementation: "researchgate.net/publication/372344257_Detection_of_breast_pathologies_in_digital_mammography_images_by_thresholding_and_mathematical_morphology"**
 *Authors: Aouat et al., 2023*  
 *Key Contributions Implemented:*
 
