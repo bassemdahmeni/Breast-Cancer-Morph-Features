@@ -6,7 +6,7 @@
 
 ## 🎯 Project Overview
 
-This project implements and extends the methodologies from the research paper **"Detection of breast pathologies in digital mammography images by thresholding and mathematical morphology"** (Aouat et al., 2023) using the **CBIS-DDSM dataset**. We develop specialized morphological pipelines for detecting mammographic anomalies including microcalcifications, masses, spiculations, and architectural distortions. The extracted morphological features serve as input for machine learning models for breast cancer classification and segmentation.
+This project implements and extends the methodologies from the research paper **"Detection of breast pathologies in digital mammography images by thresholding and mathematical morphology"** (Aouat et al., 2023) using the **CBIS-DDSM dataset**. We develop specialized morphological pipelines for detecting mammographic anomalies including microcalcifications and masses . The extracted morphological features serve as input for machine learning models for breast cancer classification and segmentation.
 
 ## 📚 Research Foundation
 
